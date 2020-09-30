@@ -7,7 +7,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    'tensorflowjs-assignment/model.json';
+    'https://github.com/Mrugankakarte/tensorflowjs-assignment/model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 5;
